@@ -1,0 +1,22 @@
+li{
+	list-style-type: none;
+	display: inline;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 3vw;
+}
+
+ul{
+	text-align: center;
+	background-color: hsla(200, 4%, 20%, 1);
+	padding-left: 2vw;
+	padding-right: 2vw;
+	padding-top: 2vw;
+	padding-bottom: 2vw;
+	margin: auto;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}

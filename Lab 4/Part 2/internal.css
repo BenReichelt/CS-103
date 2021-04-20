@@ -1,0 +1,74 @@
+*{margin: 0;
+font-family: arial, courier;}
+
+header{
+	padding: 100px;
+	text-align: center;
+	background-color: teal;
+	color: beige;
+}
+
+.nav-option{
+	list-style-type: none;
+	display: inline;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 30px;
+}
+
+a.nav-option{
+	color: white;
+	text-decoration: none;
+}
+
+
+.nav-bar{
+	text-align: center;
+	background-color: hsla(200, 4%, 20%, 1);
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	color: white;
+}
+
+#main-content{
+	background-color: beige;
+}
+
+.section{
+	padding: 10px;
+	color: black;
+}
+
+.name{
+	font-weight: bold;
+}
+
+.title{
+	text-decoration: underline;
+	padding: 0px 10px;
+}
+
+.topic{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.recommendation{
+	font-weight: bold;
+	font-style: italic;
+	padding: 0 20px;
+}
+
+.image{
+	padding: 10px;
+}
+
+footer{
+	background-color: teal;
+	color: beige;
+	padding: 10px 5px;
+	font-style: italic;
+}
+

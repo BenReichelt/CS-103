@@ -1,0 +1,48 @@
+h1 {
+  color: red;
+  background-color: #000000;
+  font-size: xx-large;
+  text-align: center
+}
+
+h2 {
+  color: rgb(255,255,255);
+  background-color: hsl(120, 100%, 50%);
+  font-weight: bold;
+  text-decoration: underline
+}
+
+h3 {
+  background-color: yellow;
+  font-style: italic;
+  line-height: 1;
+  word-spacing: 1em
+}
+
+p {
+  color: hsl(228, 95%, 66%);
+  font-variant: small-caps
+}
+
+ul {
+  color: hsl(44, 97%, 50%);
+  letter-spacing: 0.05em
+}
+
+ol {
+  color: lightgray;
+  background-color: hsl(0, 100%, 100%);
+  letter-spacing: 0.07em
+}
+
+body {
+  background-color: hsla(303, 85%, 34%, 1)
+}
+
+em {
+  text-transform: capitalize;
+}
+
+strong {
+  text-shadow: 1px 1px 1px orange;
+}

@@ -1,0 +1,32 @@
+body {
+	background-color: #404040;
+}
+
+div{
+	margin: 100px;
+	padding: 50px;
+	background-color: white;
+	box-shadow: 0px 0px 100px 100px grey;
+	border-radius: 100px;
+	transform: rotate(7deg);
+}
+
+header {
+	text-align: center;
+	transform: rotate(-7deg);
+}
+
+footer {
+	text-align: center;
+	transform: rotate(-7deg);
+}
+
+article {
+	border-top-width: 5px;
+	border-top-style: solid;
+	border-top-color: hotpink;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: hotpink;	
+	transform: rotate(-7deg);
+}
